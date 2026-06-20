@@ -1,9 +1,11 @@
 # NovaLauncher
 
+![NovaLauncher Screenshot](https://github.com/GamerHD1005/NovaLauncher/raw/main/screenshot.png)
+
 NovaLauncher ist ein kostenloser, ausschließlich offline arbeitender Minecraft‑Launcher, vollständig in Python.
 
 ## Kurzbeschreibung
-NovaLauncher startet Minecraft im Offline‑Modus und erlaubt das Spielen auf cracked/offline Servern (Server mit `online-mode=false`). Es werden keine Microsoft/Mojang‑Authentifizierungen verwendet.
+NovaLauncher startet Minecraft im Offline‑Modus und erlaubt das Spielen auf cracked/offline Servern (Server mit `online-mode=false`). Es werden keine Microsoft/Mojang‑Authentifizierungen verwendet[...]
 
 ## Hinweise
 - Funktioniert nur für lokale/offline Spielmodi und für Server, die Offline‑Clients akzeptieren.
